@@ -1,0 +1,12 @@
+Positive or Negative - Verilmiş ədədin müsbət və ya mənfi olması məlumatını ekrana çıxaran proqram yazın
+
+Even or Odd - Ədədin cüt və ya tək olub olmamasının yoxlanması üçün alqoritm yazılmalıdır.
+
+Digits of number - Ədədin rəqəmlərinin cəminin tapılması üçün alqoritm yazılmalıdır.
+
+Simple or Complex number - Ədədin sadə və ya mürəkkəb olub olmamasını tapan alqoritm yazılmalıdır.
+
+Ədədin palindrome olub olmamasının tapılması.
+
+
+
