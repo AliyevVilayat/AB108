@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\bin\Debug\net8.0\AB108ArrayTask.exe
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\bin\Debug\net8.0\AB108ArrayTask.deps.json
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\bin\Debug\net8.0\AB108ArrayTask.runtimeconfig.json
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\bin\Debug\net8.0\AB108ArrayTask.dll
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\bin\Debug\net8.0\AB108ArrayTask.pdb
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.dll
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\refint\AB108ArrayTask.dll
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.pdb
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\AB108ArrayTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AB108ArrayTask\AB108ArrayTask\obj\Debug\net8.0\ref\AB108ArrayTask.dll

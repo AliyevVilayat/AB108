@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AB108ArrayTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA6FFFE-52A0-40AB-9CA4-884D1A2AED07}|AB108ArrayTask\\AB108ArrayTask.csproj|c:\\users\\user\\source\\repos\\ab108arraytask\\ab108arraytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA6FFFE-52A0-40AB-9CA4-884D1A2AED07}|AB108ArrayTask\\AB108ArrayTask.csproj|solutionrelative:ab108arraytask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB108ArrayTask\\AB108ArrayTask\\Program.cs",
+              "RelativeDocumentMoniker": "AB108ArrayTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB108ArrayTask\\AB108ArrayTask\\Program.cs",
+              "RelativeToolTip": "AB108ArrayTask\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:39:52.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
