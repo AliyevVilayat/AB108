@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\bin\Debug\net8.0\AB108Algorithm.exe
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\bin\Debug\net8.0\AB108Algorithm.deps.json
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\bin\Debug\net8.0\AB108Algorithm.runtimeconfig.json
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\bin\Debug\net8.0\AB108Algorithm.dll
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\bin\Debug\net8.0\AB108Algorithm.pdb
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.AssemblyInfo.cs
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.dll
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\refint\AB108Algorithm.dll
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.pdb
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\AB108Algorithm.genruntimeconfig.cache
+C:\Users\User\source\repos\AB108Algorithm\AB108Algorithm\obj\Debug\net8.0\ref\AB108Algorithm.dll

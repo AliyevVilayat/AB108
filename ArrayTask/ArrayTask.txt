@@ -2,10 +2,14 @@ Verilmiş natural ədədlərdən ibarət olan array daxilində cüt elementləri
 
 Verilmiş natural ədədlərdən ibarət olan array daxilində ən böyük tək elementin tapılması.
 
-Verilmiş array-ın elementlərinin tərsinə çevrilməsi.
+Verilmiş integer array-ın elementlərinin tərsinə çevrilməsi.
 
-Verilmiş array-ın elementlərinin sayının tapılması.
+Verilmiş integer array-ın elementlərinin sayının tapılması.
 
-Verilmiş elementin array-in daxilində yer alıb-almaması məlumatının əldə edilməsi.
+Verilmiş elementin integer array-in daxilində yer alıb-almaması məlumatının əldə edilməsi.
 
-Verilmiş element array daxilində yer alırsa neçə dəfə təkrarlandığı məlumatının əldə edilməsi.
+Verilmiş element integer array daxilində yer alırsa neçə dəfə təkrarlandığı məlumatının əldə edilməsi.
+
+Verilmiş 2 integer array-dən birincisində yer alıb digərində yer almayan elementləri ekrana çıxarın
+
+Verilmiş integer array-in tək indexdə duran elementləri ilə cüt indexdə duran elementləri müqayisə edin

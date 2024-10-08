@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask\\AlgorithmTask\\AlgorithmTask.csproj",
-      "projectName": "AlgorithmTask",
-      "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask\\AlgorithmTask\\AlgorithmTask.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\AB108Algorithm\\AB108Algorithm.csproj",
+      "projectName": "AB108Algorithm",
+      "projectPath": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\AB108Algorithm\\AB108Algorithm.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask\\AlgorithmTask\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\AB108Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

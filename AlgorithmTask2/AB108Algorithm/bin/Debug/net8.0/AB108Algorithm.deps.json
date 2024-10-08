@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AB108Algorithm/1.0.0": {
+        "runtime": {
+          "AB108Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AB108Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
