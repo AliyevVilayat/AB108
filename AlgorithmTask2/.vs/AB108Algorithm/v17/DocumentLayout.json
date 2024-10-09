@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0914BCD9-496B-4AB8-ADD5-C4BF6D6ABB51}|AB108Algorithm\\AB108Algorithm.csproj|c:\\users\\user\\source\\repos\\ab108algorithm\\ab108algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0914BCD9-496B-4AB8-ADD5-C4BF6D6ABB51}|AB108Algorithm\\AB108Algorithm.csproj|c:\\users\\user\\desktop\\codeacademy\\ab108\\ab108forstudent\\algorithmtask2\\ab108algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0914BCD9-496B-4AB8-ADD5-C4BF6D6ABB51}|AB108Algorithm\\AB108Algorithm.csproj|solutionrelative:ab108algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\AB108Algorithm\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask2\\AB108Algorithm\\Program.cs",
               "RelativeDocumentMoniker": "AB108Algorithm\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\AB108Algorithm\\AB108Algorithm\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB108\\AB108ForStudent\\AlgorithmTask2\\AB108Algorithm\\Program.cs",
               "RelativeToolTip": "AB108Algorithm\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
