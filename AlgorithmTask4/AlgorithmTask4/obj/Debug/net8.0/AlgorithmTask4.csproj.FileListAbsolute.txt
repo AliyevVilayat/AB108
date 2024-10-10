@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\bin\Debug\net8.0\AlgorithmTask4.exe
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\bin\Debug\net8.0\AlgorithmTask4.deps.json
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\bin\Debug\net8.0\AlgorithmTask4.runtimeconfig.json
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\bin\Debug\net8.0\AlgorithmTask4.dll
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\bin\Debug\net8.0\AlgorithmTask4.pdb
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.dll
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\refint\AlgorithmTask4.dll
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.pdb
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\AlgorithmTask4.genruntimeconfig.cache
+C:\Users\User\source\repos\AlgorithmTask4\AlgorithmTask4\obj\Debug\net8.0\ref\AlgorithmTask4.dll
