@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\bin\Debug\net8.0\AB108MEthod.exe
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\bin\Debug\net8.0\AB108MEthod.deps.json
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\bin\Debug\net8.0\AB108MEthod.runtimeconfig.json
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\bin\Debug\net8.0\AB108MEthod.dll
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\bin\Debug\net8.0\AB108MEthod.pdb
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.AssemblyInfo.cs
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.dll
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\refint\AB108MEthod.dll
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.pdb
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\AB108MEthod.genruntimeconfig.cache
+C:\Users\User\source\repos\AB108MEthod\AB108MEthod\obj\Debug\net8.0\ref\AB108MEthod.dll
