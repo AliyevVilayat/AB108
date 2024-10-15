@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\bin\Debug\net8.0\AB108VehicleTask.exe
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\bin\Debug\net8.0\AB108VehicleTask.deps.json
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\bin\Debug\net8.0\AB108VehicleTask.runtimeconfig.json
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\bin\Debug\net8.0\AB108VehicleTask.dll
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\bin\Debug\net8.0\AB108VehicleTask.pdb
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.dll
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\refint\AB108VehicleTask.dll
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.pdb
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\AB108VehicleTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AB108VehicleTask\AB108VehicleTask\obj\Debug\net8.0\ref\AB108VehicleTask.dll

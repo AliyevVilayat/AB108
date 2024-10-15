@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AB108VehicleTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA8F94-C3BC-49A9-ACC7-7747131EC96B}|AB108VehicleTask\\AB108VehicleTask.csproj|c:\\users\\user\\source\\repos\\ab108vehicletask\\ab108vehicletask\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAA8F94-C3BC-49A9-ACC7-7747131EC96B}|AB108VehicleTask\\AB108VehicleTask.csproj|solutionrelative:ab108vehicletask\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAA8F94-C3BC-49A9-ACC7-7747131EC96B}|AB108VehicleTask\\AB108VehicleTask.csproj|c:\\users\\user\\source\\repos\\ab108vehicletask\\ab108vehicletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAA8F94-C3BC-49A9-ACC7-7747131EC96B}|AB108VehicleTask\\AB108VehicleTask.csproj|solutionrelative:ab108vehicletask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB108VehicleTask\\AB108VehicleTask\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AB108VehicleTask\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB108VehicleTask\\AB108VehicleTask\\Vehicle.cs",
+              "RelativeToolTip": "AB108VehicleTask\\Vehicle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB108VehicleTask\\AB108VehicleTask\\Program.cs",
+              "RelativeDocumentMoniker": "AB108VehicleTask\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB108VehicleTask\\AB108VehicleTask\\Program.cs",
+              "RelativeToolTip": "AB108VehicleTask\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:07.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
