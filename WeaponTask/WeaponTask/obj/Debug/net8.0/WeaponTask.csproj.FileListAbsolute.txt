@@ -1,0 +1,14 @@
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.exe
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.deps.json
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.runtimeconfig.json
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.dll
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\bin\Debug\net8.0\WeaponTask.pdb
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.AssemblyInfoInputs.cache
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.AssemblyInfo.cs
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.dll
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\refint\WeaponTask.dll
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.pdb
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\WeaponTask.genruntimeconfig.cache
+C:\Users\ca r221.14\source\repos\WeaponTask\WeaponTask\obj\Debug\net8.0\ref\WeaponTask.dll

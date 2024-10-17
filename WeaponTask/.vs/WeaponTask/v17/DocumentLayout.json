@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca r221.14\\source\\repos\\WeaponTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA7F684-F0DD-4CB1-A84C-78D5CD7DE7DD}|WeaponTask\\WeaponTask.csproj|c:\\users\\ca r221.14\\source\\repos\\weapontask\\weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA7F684-F0DD-4CB1-A84C-78D5CD7DE7DD}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA7F684-F0DD-4CB1-A84C-78D5CD7DE7DD}|WeaponTask\\WeaponTask.csproj|c:\\users\\ca r221.14\\source\\repos\\weapontask\\weapontask\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA7F684-F0DD-4CB1-A84C-78D5CD7DE7DD}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\WeaponTask\\WeaponTask\\Weapon.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\WeaponTask\\WeaponTask\\Weapon.cs",
+              "RelativeToolTip": "WeaponTask\\Weapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:13:57.895Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca r221.14\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ca r221.14\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeToolTip": "WeaponTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:25:06.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
