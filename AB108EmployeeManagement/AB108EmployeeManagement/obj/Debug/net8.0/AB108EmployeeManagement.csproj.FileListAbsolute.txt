@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\bin\Debug\net8.0\AB108EmployeeManagement.exe
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\bin\Debug\net8.0\AB108EmployeeManagement.deps.json
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\bin\Debug\net8.0\AB108EmployeeManagement.runtimeconfig.json
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\bin\Debug\net8.0\AB108EmployeeManagement.dll
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\bin\Debug\net8.0\AB108EmployeeManagement.pdb
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.dll
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\refint\AB108EmployeeManagement.dll
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.pdb
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\AB108EmployeeManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\AB108EmployeeManagement\AB108EmployeeManagement\obj\Debug\net8.0\ref\AB108EmployeeManagement.dll

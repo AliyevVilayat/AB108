@@ -1,0 +1,88 @@
+Project CLASS
+
+Xüsusiyyətlər:
+-Id
+-Employees[]
+-Starttime
+-Deadline
+-IsSuccessfull 
+
+Davranışlar:
+-AssignEmployee() - Employee object qəbul edəcək, method proyektə employee assign olunması üçün istifadə ediləcək
+
+-RemoveEmployee() - Method proyektdən employee çıxarılması üçün istifadə ediləcək (həmçinin employee obyektindəki projects array-dən bu proyektin adı silinəcək) id qəbul edəcək
+
+-Finish() - Method-u çağırıldıqda indiki vaxt start time ilə deadline time arasındadırsa(yəni deadline-ı keçməyibsə) isSuccesful dəyəri true olsun 
+
+-Print() - Method-u proyektin bütün məlumatlarını console-a çıxartsın
+
+Not: Project obyekti starttime və deadline dəyərlərini qəbul etmədən yaradıla bilməz
+
+Employee class
+
+Xüsusiyyətlər:
+-Id
+-FullName
+-Projects[]
+
+Davranışlar:
+-Leave() - Method proyektin id-sini qəbul edəcək. Həmin proyekt , projects array-dən silinəcək. Həmçinin project obyektinin özündə saxladığı employees array-dən silinəcək.
+
+Not:Datetime araşdırılmalıdır.
+
+
+
+
+
+
+0 - İnformasiya almaq üçün
+1 - Shoot metodu üçün
+2 - Fire metodu üçün
+3 - GetRemainBulletCount metodu üçün
+4 - Reload metodu üçün
+5 - ChangeFireMode metodu üçün
+6 - Proqramdan dayandırmaq üçün
+qısayoldur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
