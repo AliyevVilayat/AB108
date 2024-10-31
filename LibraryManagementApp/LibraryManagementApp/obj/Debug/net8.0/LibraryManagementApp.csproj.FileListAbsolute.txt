@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.exe
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.deps.json
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.runtimeconfig.json
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.dll
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.pdb
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.dll
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\refint\LibraryManagementApp.dll
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.pdb
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.genruntimeconfig.cache
+C:\Users\User\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\ref\LibraryManagementApp.dll

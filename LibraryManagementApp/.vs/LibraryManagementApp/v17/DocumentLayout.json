@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\services\\abstraction\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\services\\abstraction\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\exceptions\\customlibraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\exceptions\\customlibraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\extensions\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\extensions\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\librarymanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\librarymanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|c:\\users\\user\\source\\repos\\librarymanagementapp\\librarymanagementapp\\enums\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6FAB549-B150-480A-B311-DA81C06EA7E1}|LibraryManagementApp\\LibraryManagementApp.csproj|solutionrelative:librarymanagementapp\\enums\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Services\\Abstraction\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:46:24.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibraryManagementApp",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\LibraryManagementApp.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\LibraryManagementApp.csproj",
+              "RelativeToolTip": "LibraryManagementApp\\LibraryManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T07:39:28.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryMember.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryMember.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryMember.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:38:22.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:50:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomLibraryItemException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Exceptions\\CustomLibraryItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:37:24.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Extensions\\LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:35:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:16:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Enums\\BookGenre.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Enums\\BookGenre.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Enums\\BookGenre.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Enums\\BookGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:07:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\LibraryItem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:02:04.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Models\\Person.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:21:31.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LibraryManagementApp\\LibraryManagementApp\\Program.cs",
+              "RelativeToolTip": "LibraryManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:18:16.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
