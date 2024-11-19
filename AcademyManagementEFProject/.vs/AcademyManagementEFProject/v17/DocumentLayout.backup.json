@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\academymanagementefproject\\academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\academymanagementefproject\\academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\academymanagementefproject\\academymanagementefproject\\contexts\\academymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68854866-BF9E-4760-A970-3B6DA18C56FA}|AcademyManagementEFProject\\AcademyManagementEFProject.csproj|solutionrelative:academymanagementefproject\\contexts\\academymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241119095939_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs",
+              "RelativeDocumentMoniker": "AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs",
+              "RelativeToolTip": "AcademyManagementEFProject\\Migrations\\20241119095939_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:59:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AcademyManagementEFProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Models\\Student.cs",
+              "RelativeToolTip": "AcademyManagementEFProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:40:32.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademyManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "RelativeDocumentMoniker": "AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "RelativeToolTip": "AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:32:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Program.cs",
+              "RelativeDocumentMoniker": "AcademyManagementEFProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AcademyManagementEFProject\\AcademyManagementEFProject\\Program.cs",
+              "RelativeToolTip": "AcademyManagementEFProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:31:08.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
