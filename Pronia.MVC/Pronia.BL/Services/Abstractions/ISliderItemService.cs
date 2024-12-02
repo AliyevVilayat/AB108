@@ -5,11 +5,13 @@ namespace Pronia.BL.Services.Abstractions;
 public interface ISliderItemService
 {
 
-    SliderItem GetSliderItemById(int id);
+    Task<SliderItem> GetSliderItemByIdAsync(int id);
     Task<List<SliderItem>> GetAllSliderItemsAsync();
 
     Task CreateSliderItemAsync(SliderItem sliderItem);
-    void UpdateSliderItem(int id, SliderItem sliderItem);
+    Task UpdateSliderItemAsync(int id, SliderItem sliderItem);
     Task HardDeleteSliderItemAsync(int id);
     Task SoftDeleteSliderItemAsync(int id);
+
+    Task RecoverySliderItemAsync(int id);
 }

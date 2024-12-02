@@ -14,12 +14,87 @@ public class SliderItemService : ISliderItemService
         _context = context;
     }
 
+    #region Create
+
     public async Task CreateSliderItemAsync(SliderItem sliderItem)
     {
         await _context.SliderItems.AddAsync(sliderItem);
+        int rows = await _context.SaveChangesAsync();
+        if (rows != 1)
+        {
+
+            throw new Exception("Something went wrong in creating process");
+        }
+    }
+    #endregion
+
+    #region Read
+    public async Task<SliderItem> GetSliderItemByIdAsync(int id)
+    {
+        SliderItem? sliderItem = await _context.SliderItems.FindAsync(id);
+        if (sliderItem is null)
+        {
+            throw new Exception($"Slider item not found with this id({id})");
+        }
+
+        return sliderItem;
+    }
+
+    public async Task<List<SliderItem>> GetAllSliderItemsAsync()
+    {
+        List<SliderItem> sliderItems = await _context.SliderItems.ToListAsync();
+        return sliderItems;
+    }
+    #endregion
+
+    #region Update
+    public async Task UpdateSliderItemAsync(int id, SliderItem sliderItem)
+    {
+        if (id != sliderItem.Id)
+        {
+            throw new Exception("Slider Items' ids are not same");
+        }
+        SliderItem? baseSliderItem = await _context.SliderItems.AsNoTracking().SingleOrDefaultAsync(s => s.Id == id && !s.IsDeleted);
+        if (baseSliderItem is null)
+        {
+            throw new Exception($"Slider Item not found with this id({id})");
+        }
+
+        baseSliderItem.Title = sliderItem.Title;
+        baseSliderItem.ShortDescription = sliderItem.ShortDescription;
+        baseSliderItem.Offer = sliderItem.Offer;
+        baseSliderItem.ImgPath = sliderItem.ImgPath;
+        baseSliderItem.LastModifiedDate = DateTime.Now;
+
+        _context.SliderItems.Update(baseSliderItem);
         await _context.SaveChangesAsync();
     }
 
+
+    public async Task RecoverySliderItemAsync(int id)
+    {
+        SliderItem? baseSliderItem = await _context.SliderItems.SingleOrDefaultAsync(s => s.Id == id && s.IsDeleted);
+        if (baseSliderItem is null)
+        {
+            throw new Exception($"Slider Item not found with this id({id})");
+        }
+
+        baseSliderItem.IsDeleted = false;
+        baseSliderItem.LastModifiedDate = DateTime.Now;
+        baseSliderItem.DeletedDate = null;
+
+        int rows = await _context.SaveChangesAsync();
+        if (rows != 1)
+        {
+            throw new Exception("Something went wrong in update process");
+        }
+
+    }
+
+
+    #endregion
+
+    #region Delete
     public async Task SoftDeleteSliderItemAsync(int id)
     {
         /* SliderItem baseSliderItem = await _context.SliderItems.FindAsync(id);
@@ -41,6 +116,8 @@ public class SliderItemService : ISliderItemService
         }
 
         baseSliderItem.IsDeleted = true;
+        baseSliderItem.LastModifiedDate = DateTime.Now;
+        baseSliderItem.DeletedDate = DateTime.Now;
         await _context.SaveChangesAsync();
     }
 
@@ -62,19 +139,9 @@ public class SliderItemService : ISliderItemService
         await _context.SaveChangesAsync();
     }
 
-    public async Task<List<SliderItem>> GetAllSliderItemsAsync()
-    {
-        List<SliderItem> sliderItems = await _context.SliderItems.ToListAsync();
-        return sliderItems;
-    }
+    #endregion
 
-    public SliderItem GetSliderItemById(int id)
-    {
-        throw new NotImplementedException();
-    }
 
-    public void UpdateSliderItem(int id, SliderItem sliderItem)
-    {
-        throw new NotImplementedException();
-    }
+
+
 }

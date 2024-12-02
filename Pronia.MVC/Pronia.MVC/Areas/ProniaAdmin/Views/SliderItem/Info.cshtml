@@ -1,0 +1,134 @@
+﻿@model SliderItem
+@{
+    string deleteAction = string.Empty;
+}
+
+<div class="content-wrapper">
+    <div class="row">
+
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Slider Item Info</h4>
+                    
+                        <a class="btn btn-light" asp-action="Index">Go back</a>
+                    @{
+                        if (Model.IsDeleted)
+                        {
+                            deleteAction = "Hard Delete";
+                            <form style="display:inline-block;" asp-action="Recovery" asp-route-id="@Model.Id">
+
+                                    <button type="submit" class="btn btn-success" style="color:white">Recovery</button>
+                                </form>
+
+                            }
+                            else
+                            {
+                            deleteAction = "Soft Delete";
+                                <a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-warning" style="color:white">Update</a>
+                            }
+                        }
+                    <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">@deleteAction</a>
+                    
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        #
+                                    </th>
+                                    <th>
+                                        Img
+                                    </th>
+                                    <th>
+                                        Title
+                                    </th>
+                                    <th>
+                                        Short Description
+                                    </th>
+                                    <th>
+                                        Offer
+                                    </th>
+                                    <th>
+                                        Created Date
+                                    </th>
+                                    <th>
+                                        Last Modified Date
+                                    </th>
+                                    <th>
+                                        Deleted Date
+                                    </th>
+                                    <th>
+                                        Is Deleted
+                                    </th>
+                                    
+
+                                </tr>
+                            </thead>
+                            <tbody>
+
+                                    <tr>
+                                        <td>@Model.Id</td>
+                                        <td class="py-1">
+                                            <img src="~/assets/images/website-images//Musa.jpeg" alt="image" />
+                                        </td>
+                                        <td>
+                                            @Model.Title
+                                        </td>
+                                        <td>
+                                            @Model.ShortDescription
+                                        </td>
+                                        <td>
+                                            @Model.Offer %
+                                        </td>
+                                        <td>
+                                            @Model.CreatedDate
+                                        </td>
+                                        <td>
+
+
+                                            @{
+
+                                                string date = (Model.LastModifiedDate == null) ? "-" : Model.LastModifiedDate.ToString();
+
+
+                                            }
+
+                                            @date
+
+
+                                        </td>
+                                        <td>
+                                            @{
+
+                                                string date2 = null;
+                                                if (Model.DeletedDate.HasValue)
+                                                {
+                                                    date2 = Model.DeletedDate.ToString();
+                                                }
+                                                else
+                                                {
+                                                    date2 = "-";
+                                                }
+
+                                            }
+
+                                            @date2
+                                        </td>
+                                        <td>
+                                            @Model.IsDeleted
+                                        </td>
+                                       
+
+                                    </tr>
+                                
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

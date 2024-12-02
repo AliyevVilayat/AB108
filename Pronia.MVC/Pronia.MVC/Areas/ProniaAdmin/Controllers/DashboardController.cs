@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pronia.BL.Services.Abstractions;
-using Pronia.DAL.Models;
 
 namespace Pronia.MVC.Areas.ProniaAdmin.Controllers;
 
@@ -14,9 +13,9 @@ public class DashboardController : Controller
         _sliderItemService = sliderItemService;
     }
 
-    public async Task<IActionResult> Index()
+    public IActionResult Index(int? id)
     {
-        List<SliderItem> sliderItems = await _sliderItemService.GetAllSliderItemsAsync();
-        return View(sliderItems);
+
+        return View(id);
     }
 }

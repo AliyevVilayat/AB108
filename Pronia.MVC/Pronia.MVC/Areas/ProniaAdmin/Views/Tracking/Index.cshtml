@@ -1,0 +1,76 @@
+﻿
+
+@model TrackingIndexVM
+@{
+    SliderItem item = default;
+    EntityState state = default;
+}
+
+<div class="content-wrapper">
+    <div class="row">
+
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Slider Items Tracking Table</h4>
+                    <p class="card-description">
+
+                    </p>
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        #
+                                    </th>
+                                    <th>
+                                        Img
+                                    </th>
+                                    <th>
+                                        Title
+                                    </th>
+
+                                    <th>
+                                        Is Deleted
+                                    </th>
+                                    <th>
+                                        State
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                              @for(int i=0;i<Model.SliderItems.Count;i++)
+                                {
+                                    item = Model.SliderItems[i];
+                                    state = Model.EntityStates[i];
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td class="py-1">
+                                            <img src="~/assets/images/website-images//Musa.jpeg" alt="image" />
+                                        </td>
+                                        <td>
+                                            @item.Title
+                                        </td>
+
+                                        <td>
+                                            @item.IsDeleted
+                                        </td>
+                                        <td>
+                                            @state
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+

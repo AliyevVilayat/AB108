@@ -1,0 +1,106 @@
+﻿@model List<SliderItem>
+@{
+    string deleteAction = string.Empty;
+}
+<div class="content-wrapper">
+    <div class="row">
+
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Slider Items Table</h4>
+                    <a asp-action="Create">Create</a>
+                    <p class="card-description">
+
+                    </p>
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        #
+                                    </th>
+                                    <th>
+                                        Img
+                                    </th>
+                                    <th>
+                                        Title
+                                    </th>
+                                    <th>
+                                        Short Description
+                                    </th>
+                                    <th>
+                                        Offer
+                                    </th>
+
+                                    <th>
+                                        Is Deleted
+                                    </th>
+                                    <th>
+                                        Actions
+                                    </th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (SliderItem item in Model)
+                                {
+
+                                    deleteAction = (item.IsDeleted) ? "HardDelete" : "SoftDelete";
+
+                                    <tr>
+                                        <td>@item.Id</td>
+                                        <td class="py-1">
+                                            <img src="~/assets/images/website-images//Musa.jpeg" alt="image" />
+                                        </td>
+                                        <td>
+                                            @item.Title
+                                        </td>
+                                        <td>
+                                            @item.ShortDescription
+                                        </td>
+                                        <td>
+                                            @item.Offer %
+                                        </td>
+
+                                        <td>
+                                            @item.IsDeleted
+                                        </td>
+                                        <td>
+
+                                            <a asp-action="Info" asp-route-id="@item.Id" class="btn btn-info" style="color:white">Info</a>
+
+                                            @{
+                                                if (deleteAction == "HardDelete")
+                                                {
+                                                    <form style="display:inline-block;" asp-action="Recovery" asp-route-id="@item.Id">
+
+                                                        <button type="submit" class="btn btn-success" style="color:white">Recovery</button>
+                                                    </form>
+
+                                                }
+                                                else
+                                                {
+                                                    <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning" style="color:white">Update</a>
+                                                }
+                                            }
+
+                                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">@deleteAction</a>
+
+                                        </td>
+
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
