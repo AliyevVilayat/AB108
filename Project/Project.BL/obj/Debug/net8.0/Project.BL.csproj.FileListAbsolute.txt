@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Project\Project.BL\bin\Debug\net8.0\Project.BL.deps.json
+C:\Users\User\source\repos\Project\Project.BL\bin\Debug\net8.0\Project.BL.dll
+C:\Users\User\source\repos\Project\Project.BL\bin\Debug\net8.0\Project.BL.pdb
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.dll
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\refint\Project.BL.dll
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\Project.BL.pdb
+C:\Users\User\source\repos\Project\Project.BL\obj\Debug\net8.0\ref\Project.BL.dll

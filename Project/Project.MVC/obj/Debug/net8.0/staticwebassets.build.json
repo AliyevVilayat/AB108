@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "nVi5xlXlNwPjVa/NS4owZH9ARPF5CZwgl+jiY5pSqbI=",
+  "Source": "Project.MVC",
+  "BasePath": "_content/Project.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project.MVC\\wwwroot",
+      "Source": "Project.MVC",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Project\\Project.MVC\\wwwroot\\",
+      "BasePath": "_content/Project.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
